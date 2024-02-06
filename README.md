@@ -13,4 +13,4 @@
 
 ## Resultss
   -
-![Alt text](https://raw.githubusercontent.com/anki-mittal/Image-stitch_MyAutoPano/master/Phase1/Code/Results/final1.png)
+![Alt text](https://github.com/anki-mittal/Camera-Caliberation/blob/master/Code/Results/undistort1.png?raw=true)
